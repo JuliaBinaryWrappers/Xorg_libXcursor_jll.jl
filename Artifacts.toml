@@ -1,0 +1,89 @@
+[[Xorg_libXcursor]]
+arch = "armv7l"
+git-tree-sha1 = "f4287dbc597c95ef137b3e066ecd89b45307e506"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "62a8a98d09e8e60afa297fa98f793b175178ebf20f8127972fa7a814c38a0382"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_libXcursor]]
+arch = "aarch64"
+git-tree-sha1 = "680483c463dc3dfbc9882d80d4cdd7c3fff50a77"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "76eab6c47c441ac4e7b06074d097f0628fa5edd50556bc1aafc015972dcfd6e5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.aarch64-linux-musl.tar.gz"
+[[Xorg_libXcursor]]
+arch = "i686"
+git-tree-sha1 = "db9ec5a411b429777ecff907f95aeb60ab71a141"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "6ab97ff3724975c83212bde72501974d7a6e3fa4980afd9e14af8f85152db37a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.i686-linux-musl.tar.gz"
+[[Xorg_libXcursor]]
+arch = "i686"
+git-tree-sha1 = "b37f5e4138e773e9e8b81b82ba4ec6f0836ab1d9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "83b600d5ed65347c5be2a2bc69e1e7afb1aca433aca904aa72f016688f46cade"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.i686-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "x86_64"
+git-tree-sha1 = "0f5bf19d1e597c80baea89cbdb20c77d47e21406"
+os = "freebsd"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "238495757b5bb169493bd50b16391c4330dcc5d73dfd3d467861947ed8e8b465"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXcursor]]
+arch = "powerpc64le"
+git-tree-sha1 = "cc2d316486aed0fc6f443d9ef94147ffaa628fde"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "1b1fdd0132fb065401c05d8721f5be0ea46589ca6a5af01124f99a4b791572d0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "armv7l"
+git-tree-sha1 = "ecd893e5cad1f353ba71c7d3d5f3f8ae5f26aadc"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "e1083008a674c80ca9496da78708784b9c9aa79f6fd86fc9e1b832dbf57b6a75"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_libXcursor]]
+arch = "aarch64"
+git-tree-sha1 = "e8ff5c493334b195c7a61ae778bee6f06e166d83"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "f7669dced04eebb7e7b4729ae33b754b42bc32ceb3ff2446a1bafcebb8894b4b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "x86_64"
+git-tree-sha1 = "806f0485ec1afd59e7b0f27010f100e43372d901"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "90639c1401029a6246804c8836814d3072b0b04f3eeff0da603561cf903cd67b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "x86_64"
+git-tree-sha1 = "ae2f9963bc96e502d6524e65bbd773eec23f874b"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "86c36ad19cb43535c49bbdf6bfb07c3dce8b4a9f5a6a9bb60e8eef4eb1cc9d37"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+0/Xorg_libXcursor.v1.2.0.x86_64-linux-musl.tar.gz"
