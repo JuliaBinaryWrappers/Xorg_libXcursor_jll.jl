@@ -1,89 +1,89 @@
 [[Xorg_libXcursor]]
-arch = "aarch64"
-git-tree-sha1 = "78fc19e9d0fcf9468baf39ca5404be01621b5b8d"
+arch = "armv7l"
+git-tree-sha1 = "a923d0d33a040f238b01b8fac6a9c23038c395f9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "75284212282e1b946fd99bb33cd32f4542d1015b259737427c0a1b4ffd33bd14"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libXcursor]]
+arch = "i686"
+git-tree-sha1 = "b443c45bd0826ddd4ff98267d1ed9fccfa94d098"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "4948344c7b35330ec9143584e215ba83e21c17e7a670072ffa323fd18bbcdc84"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "58555f145b26eb83e7fa5ffedfd49bb5cd28466e02d7573466e8af935c2dac62"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.i686-linux-musl.tar.gz"
 [[Xorg_libXcursor]]
 arch = "aarch64"
-git-tree-sha1 = "913770b7e4b3aa3a17c068ce1396efbc39ecb01b"
+git-tree-sha1 = "4cc0c1a152b7ad213b520dbc56bc198739fa58a6"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "363b82c114b6c2547e007c3499a7a5a8aa25a3a96b1e9f3e76d32f9328a18219"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "757fc1e8dffb9106c71060430fbac0e356e660fbd9de2877a3cc193e9c0bede3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "armv7l"
+git-tree-sha1 = "3c4bb56a049c79acb3f997df1fe9a912f6746ed3"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "057166f3c20d3f77d6b1304ce77d04b6c12a7585e28d91155dc093f912735f79"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_libXcursor]]
+arch = "aarch64"
+git-tree-sha1 = "f35cb3bb8b3dc2732011b67a1599468d5706ec2a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "778781ab9f32009499294aa615c64cbd546d0294a9271e1e02ed0b65a4d6777c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.aarch64-linux-musl.tar.gz"
 [[Xorg_libXcursor]]
 arch = "x86_64"
-git-tree-sha1 = "9d1b7e42dfdb0b3ba2d0f81701ee609bad9b880e"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXcursor.download]]
-    sha256 = "499f324bb5e19a65e10a5d5c7028b48be5dab751b8a6d694c9d12826724ef897"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.x86_64-linux-gnu.tar.gz"
-[[Xorg_libXcursor]]
-arch = "powerpc64le"
-git-tree-sha1 = "433036445af11a37fa04076bf5798801d52dc9e2"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXcursor.download]]
-    sha256 = "53680c1793824dfc4f3e7c5a8f1ee2432549ce5fdf8cbde6828f5c1a76d3e921"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.powerpc64le-linux-gnu.tar.gz"
-[[Xorg_libXcursor]]
-arch = "x86_64"
-git-tree-sha1 = "401409970af94a3457f14e2853d169e1c90b1c49"
+git-tree-sha1 = "48825c6b390e2bc7f842d40567616608b864eb9b"
 os = "freebsd"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "8068920e3597d4bbd2aa6471894774769a3493f73cd1b76f1f77bbfa77c5b869"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "f5ceeb06b94c73e17fcb23c1d06b0c9a5e303cee3637d7da84a38be55e705fa8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[Xorg_libXcursor]]
 arch = "i686"
-git-tree-sha1 = "97c216960e15595bec68e9b8bd26df29baa9bb2a"
+git-tree-sha1 = "278546932956b20e0aaf5fdf7bd39a6dd55a9b33"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "37526ab23d3ae2f9f3c777602086e158651c4d4e3d1b3244cd78b72801945697"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.i686-linux-gnu.tar.gz"
-[[Xorg_libXcursor]]
-arch = "i686"
-git-tree-sha1 = "cf9616c48beb53bdd4effae0ec96a78fb6b709ce"
-libc = "musl"
-os = "linux"
-
-    [[Xorg_libXcursor.download]]
-    sha256 = "80a1c3044ad15ca4f1994c29ad8c67d28cec56c02295aac1fdfbaec2c0c7e871"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.i686-linux-musl.tar.gz"
-[[Xorg_libXcursor]]
-arch = "armv7l"
-git-tree-sha1 = "cd7ce0e85c2af18828733a29280b48614701b474"
-libc = "glibc"
-os = "linux"
-
-    [[Xorg_libXcursor.download]]
-    sha256 = "7457b0cbf60e3af394ec4947dc9d1fa97d7a4ba8ce44a45a06d80b9eae9ec72e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "b23062b3b4e9a4fdef6913b39cf83a8d0103775bc7a99d2758546a3400e4e771"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.i686-linux-gnu.tar.gz"
 [[Xorg_libXcursor]]
 arch = "x86_64"
-git-tree-sha1 = "4fa3b82462ec3c08ec8aa0ae9152c999a5776dd1"
+git-tree-sha1 = "cacfffa491a7d8c6d7fcf544f41ad7e7502d9119"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "2d7ee876e2e5cfde7fad7175ce07098a6c3bde8acaa11d916d636e860072cc86"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "5320b1c4b8bfe4a3224d0e9c28e1afbe55c2208c6a1add336b7c7fe68a531220"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.x86_64-linux-musl.tar.gz"
 [[Xorg_libXcursor]]
-arch = "armv7l"
-git-tree-sha1 = "6d24b568cae54a21dd44709c1a7c9541aaeba009"
-libc = "musl"
+arch = "x86_64"
+git-tree-sha1 = "b359a86a18754eafae7b38abb4966ff106c21672"
+libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcursor.download]]
-    sha256 = "a071ed08b1a3965b829a933b40c0fdeba2c56175c8053dbf914d0c7f41c310a3"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+1/Xorg_libXcursor.v1.2.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9c768ad7fa8efbb2d87dbc17324f0a96bb5c17cc8520a6e0dd11027f05a0b883"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXcursor]]
+arch = "powerpc64le"
+git-tree-sha1 = "fc9d04db1950bc1c911813db274a66e544de5ff8"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXcursor.download]]
+    sha256 = "a16d7b92ae531ed57497f7b6dddd356b8ad4c26f0af6f24b34677fb1d644296b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcursor_jll.jl/releases/download/Xorg_libXcursor-v1.2.0+2/Xorg_libXcursor.v1.2.0.powerpc64le-linux-gnu.tar.gz"
