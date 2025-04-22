@@ -1,6 +1,6 @@
 name = "Xorg_libXcursor_jll"
 uuid = "935fb764-8cf2-53bf-bb30-45bb1f8bf724"
-version = "1.2.3+0"
+version = "1.2.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,7 +10,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Xorg_libXrender_jll = "ea2f1a96-1ddc-540d-b46f-429655e07cfa"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
